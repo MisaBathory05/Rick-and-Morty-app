@@ -1,0 +1,8 @@
+.App {
+   /* text-align: center; */
+   width: 100vw;
+   height: 100vh;
+   background-image: url(./Imagenes/Fondo\ 3.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
